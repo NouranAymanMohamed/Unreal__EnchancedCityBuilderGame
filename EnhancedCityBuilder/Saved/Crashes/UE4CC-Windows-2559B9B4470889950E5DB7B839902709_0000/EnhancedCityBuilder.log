@@ -1,0 +1,1262 @@
+﻿Log file open, 12/31/22 16:05:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EnhancedCityBuilder
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264425
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Engine.ini]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Engine.ini]
+[2022.12.31-14.05.27:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Engine.ini]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Engine.ini]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.31-14.05.27:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Engine.ini]
+[2022.12.31-14.05.27:288][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Engine.ini]
+[2022.12.31-14.05.27:292][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.31-14.05.27:292][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.31-14.05.27:293][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.31-14.05.27:293][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.31-14.05.27:293][  0]LogHAL: Display: Platform has ~ 16 GB [16866852864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.31-14.05.27:293][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.31-14.05.27:293][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.31-14.05.27:293][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Scalability.ini]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.31-14.05.27:294][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Engine.ini]
+[2022.12.31-14.05.27:294][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Config/Windows/Editor.ini]
+[2022.12.31-14.05.27:294][  0]LogInit: Computer: MSI
+[2022.12.31-14.05.27:294][  0]LogInit: User: noura
+[2022.12.31-14.05.27:294][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.12.31-14.05.27:294][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.31-14.05.27:294][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.12.31-14.05.27:294][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.31-14.05.27:294][  0]LogMemory: Process Physical Memory: 149.40 MB used, 149.40 MB peak
+[2022.12.31-14.05.27:294][  0]LogMemory: Process Virtual Memory: 129.69 MB used, 129.69 MB peak
+[2022.12.31-14.05.27:294][  0]LogMemory: Physical Memory: 6701.61 MB used,  9383.88 MB free, 16085.48 MB total
+[2022.12.31-14.05.27:294][  0]LogMemory: Virtual Memory: 134207952.00 MB used,  9773.93 MB free, 134217728.00 MB total
+[2022.12.31-14.05.27:315][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.31-14.05.27:340][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.31-14.05.27:341][  0]LogInit: Using OS detected language (en-US).
+[2022.12.31-14.05.27:341][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.31-14.05.27:342][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.12.31-14.05.27:510][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.31-14.05.27:535][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.31-14.05.27:549][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.31-14.05.27:549][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.31-14.05.27:675][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.31-14.05.27:680][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.31-14.05.27:680][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.31-14.05.27:680][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.31-14.05.27:680][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.31-14.05.27:738][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.12.31-14.05.27:738][  0]LogD3D11RHI:       128/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.12.31-14.05.27:872][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.12.31-14.05.27:872][  0]LogD3D11RHI:       6023/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:       0/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:     SubSysId    : 12ea1462
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:     SharedSystemMemory : 8433426432 bytes
+[2022.12.31-14.05.27:875][  0]LogD3D11RHI:     AdapterLuid : 0 55771
+[2022.12.31-14.05.27:881][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.31-14.05.27:881][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.31-14.05.27:881][  0]LogWindows: EnumDisplayDevices:
+[2022.12.31-14.05.27:881][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.12.31-14.05.27:882][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.31-14.05.27:882][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.31-14.05.27:882][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.31-14.05.27:882][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.12.31-14.05.27:882][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:   Driver Version: 462.21 (internal:27.21.14.6221, unified:462.21)
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:      Driver Date: 3-28-2021
+[2022.12.31-14.05.27:882][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     SubSysId    : 12ea1462
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     SharedSystemMemory : 8433426432 bytes
+[2022.12.31-14.05.27:882][  0]LogD3D11RHI:     AdapterLuid : 0 55771
+[2022.12.31-14.05.27:947][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.31-14.05.27:948][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.31-14.05.27:948][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.31-14.05.27:970][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.31-14.05.27:990][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.31-14.05.28:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.31-14.05.28:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.31-14.05.28:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.31-14.05.28:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.31-14.05.28:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.31-14.05.28:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.31-14.05.28:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.31-14.05.28:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.31-14.05.28:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.31-14.05.28:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.31-14.05.28:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.31-14.05.28:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.31-14.05.28:284][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.31-14.05.28:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.31-14.05.28:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.31-14.05.28:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.31-14.05.28:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.31-14.05.28:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.31-14.05.28:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.31-14.05.28:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.31-14.05.28:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.31-14.05.28:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.31-14.05.28:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.31-14.05.28:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.31-14.05.28:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.31-14.05.28:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.31-14.05.28:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.31-14.05.28:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.31-14.05.28:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.31-14.05.28:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.31-14.05.28:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.31-14.05.28:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.31-14.05.28:374][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.31-14.05.28:379][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.31-14.05.28:400][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.31-14.05.28:426][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.31-14.05.28:426][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Intermediate/Shaders/WorkingDirectory/10160/).
+[2022.12.31-14.05.28:426][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/noura/AppData/Local/Temp/UnrealShaderWorkingDir/28AC97A948E46F7B1AE22EA56D1718EB/'.
+[2022.12.31-14.05.28:426][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.31-14.05.28:426][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.31-14.05.28:426][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.31-14.05.29:141][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.31-14.05.29:187][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/noura/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.31-14.05.29:187][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/noura/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.31-14.05.29:187][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.31-14.05.29:187][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.31-14.05.29:187][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.31-14.05.29:187][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.31-14.05.29:200][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.31-14.05.29:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.31-14.05.29:200][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.31-14.05.29:208][  0]LogDerivedDataCache: Speed tests for C:/Users/noura/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.31-14.05.29:208][  0]LogDerivedDataCache: Display: Performance to C:/Users/noura/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2673.05MBs, RandomWriteSpeed=138.83MBs. Assigned SpeedClass 'Local'
+[2022.12.31-14.05.29:209][  0]LogDerivedDataCache: Using Local data cache path C:/Users/noura/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.31-14.05.29:209][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.31-14.05.29:209][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.31-14.05.29:257][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.31-14.05.29:257][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.31-14.05.29:290][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2022.12.31-14.05.29:483][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.31-14.05.29:483][  0]LogInit: Active device profile: [0000020599E7FE00][0000020598CDD4C0 49] Windows
+[2022.12.31-14.05.29:483][  0]LogInit: Profiles: [0000020599E7FE00][0000020598CDD4C0 49] Windows, [0000020599E44300][0000020598CE5640 49] WindowsNoEditor, [0000020599E7C300][0000020598CE97C0 49] WindowsServer, [0000020599E47900][0000020598CED940 49] WindowsClient, [0000020599E7F800][0000020598CF1AC0 49] IOS, [0000020599E44900][0000020598CF40C0 49] iPadAir, [0000020599E7C800][0000020598CF8240 49] iPadAir2, [0000020599DFCA00][0000020598D00500 49] IPadPro, [0000020599DFCB00][0000020598CFC540 49] iPadAir3, [0000020599E7F500][0000020598D086C0 49] iPadAir4, [0000020599DFC800][0000020598D7C840 49] iPadMini2, [0000020599E7CA00][0000020598CE0980 49] iPadMini3, [0000020599DFD600][000002059AF56AC0 49] iPadMini4, [0000020599E7ED00][000002059AF5EC00 49] iPadMini5, [0000020599E46D00][000002059B030E80 49] iPhone6, [0000020599DEBF00][000002059AFE0EC0 49] iPodTouch6, [0000020599E47600][000002058E67D180 49] iPhone7, [0000020599E47700][000002059B0CF1C0 49] iPodTouch7, [0000020599DE8800][000002058E699340 49] iPhone5S, [0000020599E47400][000002059B1714C0 49] iPhone6Plus, [0000020599DEB400][000002059B175640 49] iPhone6S, [0000020599E44B00][000002059B1797C0 49] iPhone6SPlus, [0000020599DE8F00][000002059B17D940 49] iPhone7Plus, [0000020599E46700][000002059B181AC0 49] iPhoneSE, [0000020599DEAD00][000002059B1880C0 49] iPhone8, [0000020599E45100][000002058E69C240 49] iPhone8Plus, [0000020599DE9500][000002058E6A03C0 49] iPhoneX, [0000020599E47800][000002058E6A4540 49] iPhoneXS, [0000020599DEA700][000002058E6CE6C0 49] iPhoneXSMax, [0000020599E45A00][000002058E6D2840 49] iPhoneXR, [0000020599DE9B00][000002058E6D69C0 49] iPhone11, [0000020599E46200][000002058E6DAB40 49] iPhone11Pro, [0000020599DEB500][000002059B024C80 49] iPhone11ProMax, [0000020599E44500][000002058E6E6DC0 49] iPhoneSE2, [0000020599DE8B00][000002059B596F00 49] iPhone12Mini, [0000020599E47100][000002058E621080 49] iPhone12, [0000020599DE9000][000002058E63B200 49] iPhone12Pro, [0000020599E45E00][000002058E679380 49] iPhone12ProMax, [0000020599DE9100][0000020598D11500 49] iPadPro105, [0000020599E46C00][0000020598D15680 49] iPadPro129, [0000020599DEBB00][0000020598D69800 49] iPadPro97, [0000020599E45000][0000020598D6D980 49] iPadPro2_129, [0000020599DE8D00][0000020598D71B00 49] iPad5, [0000020599E45700][0000020598D74100 49] iPad6, [0000020599DE9400][0000020598D78280 49] iPad7, [0000020599E45D00][0000020596D92400 49] iPad8, [0000020599DE8C00][0000020596D96580 49] iPadPro11, [0000020599E47B00][0000020596D9A700 49] iPadPro2_11, [0000020599DE8500][000002059B168880 49] iPadPro3_129, [0000020599E44D00][000002059B16CA00 49] iPadPro4_129, [0000020599DE8200][0000020596D9EB80 49] AppleTV, [0000020599E46B00][0000020596DA2D00 49] AppleTV4K, [0000020599DEBE00][000002059B59AE40 49] TVOS, [0000020599E47200][0000020596DA6F80 49] Mac, [0000020599DEAA00][000002059B07D0C0 49] MacClient, [0000020599E46300][000002059B0B5240 49] MacNoEditor, [0000020599DE9D00][000002059B0C53C0 49] MacServer, [0000020599E47A00][000002059B26F540 49] Linux, [0000020599DEA500][000002059B2736C0 49] LinuxAArch64, [0000020599E45200][000002059B277840 49] LinuxNoEditor, [0000020599DE8700][000002059B27B9C0 49] LinuxAArch64NoEditor, [0000020599E47E00][000002059B283B40 49] LinuxClient, [0000020599DE8400][000002059B286140 49] LinuxAArch64Client, [0000020599E44400][000002059B2942C0 49] LinuxServer, [0000020599DE9300][000002059B298440 49] LinuxAArch64Server, [0000020599E45600][000002059B29C5C0 49] Android, [0000020599DE8300][000002059B2A0740 49] Android_Low, [0000020599E46600][000002059B2A48C0 49] Android_Mid, [0000020599DE9F00][000002059B2A8A40 49] Android_High, [0000020599EC2800][000002058E63EBC0 49] Android_Default, [0000020599E7F400][000002058E642D40 49] Android_Adreno4xx, [0000020599EC2900][000002058E66EEC0 49] Android_Adreno5xx_Low, [0000020599E7D600][000002059B0B1000 49] Android_Adreno5xx, [0000020599EC1300][000002059B2E7140 49] Android_Adreno6xx, [0000020599E7FF00][000002059B2EB280 49] Android_Adreno6xx_Vulkan, [0000020599EC2100][000002059B2F33C0 49] Android_Mali_T6xx, [0000020599E7C600][000002059B2FB540 49] Android_Mali_T7xx, [0000020599EC2A00][000002059B9A96C0 49] Android_Mali_T8xx, [0000020599E7E300][000002059B2FF840 49] Android_Mali_G71, [0000020599EC0400][000002059B3039C0 49] Android_Mali_G72, [0000020599E7C500][000002059B307B40 49] Android_Mali_G72_Vulkan, [0000020599EC1600][000002059B30A140 49] Android_Mali_G76, [0000020599E7D200][000002059AF622C0 49] Android_Mali_G76_Vulkan, [0000020599EC0B00][0000020596D88440 49] Android_Mali_G77, [0000020599E7DB00][0000020596D8C5C0 49] Android_Mali_G77_Vulkan, [0000020599EC2500][000002059AF70740 49] Android_Mali_G78, [0000020599E7C400][000002059B9AC8C0 49] Android_Mali_G78_Vulkan, [0000020599EC2600][000002059B2EEA40 49] Android_Mali_G710, [0000020599E7F000][000002059AF74BC0 49] Android_Mali_G710_Vulkan, [0000020599EC0E00][000002059AF78D40 49] Android_Vulkan_SM5, [0000020599E7FA00][000002058E672EC0 49] Android_PowerVR_G6xxx, [0000020599DEB600][000002059AF7D040 49] Android_PowerVR_GT7xxx, [0000020599E46100][000002059B2F7180 49] Android_PowerVR_GE8xxx, [0000020599EC1700][000002059B9812C0 49] Android_PowerVR_GM9xxx, [0000020599E46E00][000002059B985400 49] Android_PowerVR_GM9xxx_Vulkan, [0000020599EC0700][000002059B989540 49] Android_TegraK1, [0000020599E46400][000002059B9916C0 49] Android_Unknown_Vulkan, [0000020599EC0C00][000002059B995840 49] Lumin, [0000020599E44700][000002059B9999C0 49] Lumin_Desktop, [0000020599EC1F00][000002059B99DB40 49] HoloLens, 
+[2022.12.31-14.05.29:592][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.31-14.05.29:592][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.31-14.05.29:592][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.31-14.05.29:592][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.31-14.05.29:592][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.31-14.05.29:611][  0]LogNetVersion: EnhancedCityBuilder 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4004654538)
+[2022.12.31-14.05.29:978][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.31-14.05.30:030][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.31-14.05.30:035][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.12.31-14.05.30:035][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.12.31-14.05.30:035][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.31-14.05.30:233][  0]LogPython: Using Python 3.7.7
+[2022.12.31-14.05.30:639][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 34058A8A4F60A29D3CB606A737B2CDD2 | Instance: D156DDF541E80928992446A6DAD6E32C (MSI-10160).
+[2022.12.31-14.05.30:698][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.31-14.05.30:701][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.31-14.05.30:905][  0]SourceControl: Source control is disabled
+[2022.12.31-14.05.30:905][  0]SourceControl: Source control is disabled
+[2022.12.31-14.05.30:908][  0]SourceControl: Source control is disabled
+[2022.12.31-14.05.30:910][  0]SourceControl: Source control is disabled
+[2022.12.31-14.05.30:914][  0]SourceControl: Source control is disabled
+[2022.12.31-14.05.30:921][  0]LogUProjectInfo: Found projects:
+[2022.12.31-14.05.31:106][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.31-14.05.31:142][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.31-14.05.31:166][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.31-14.05.31:166][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.31-14.05.31:286][  0]LogCollectionManager: Loaded 0 collections in 0.000738 seconds
+[2022.12.31-14.05.31:308][  0]LogFileCache: Scanning file cache for directory 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Saved/Collections/' took 0.00s
+[2022.12.31-14.05.31:308][  0]LogFileCache: Scanning file cache for directory 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Content/Developers/noura/Collections/' took 0.00s
+[2022.12.31-14.05.31:308][  0]LogFileCache: Scanning file cache for directory 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Content/Collections/' took 0.00s
+[2022.12.31-14.05.31:308][  0]LogOcInput: OculusInput pre-init called
+[2022.12.31-14.05.31:601][  0]LogEngine: Initializing Engine...
+[2022.12.31-14.05.31:643][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.31-14.05.31:644][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.31-14.05.31:644][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.31-14.05.31:645][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.31-14.05.31:752][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.31-14.05.31:759][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.31-14.05.31:775][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.31-14.05.31:779][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.31-14.05.31:779][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.31-14.05.31:780][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.31-14.05.31:780][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.31-14.05.31:780][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.31-14.05.31:780][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.31-14.05.31:780][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.31-14.05.31:780][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.31-14.05.31:780][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.31-14.05.31:780][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.31-14.05.31:780][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.31-14.05.31:780][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.31-14.05.31:780][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.31-14.05.31:780][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.31-14.05.31:780][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.31-14.05.31:780][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.31-14.05.31:808][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.31-14.05.31:808][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.31-14.05.31:956][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.31-14.05.31:956][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.31-14.05.31:958][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.31-14.05.31:958][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.31-14.05.31:959][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.31-14.05.31:959][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.31-14.05.31:959][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.31-14.05.31:960][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.31-14.05.31:960][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.31-14.05.31:960][  0]LogInit: FAudioDevice initialized.
+[2022.12.31-14.05.31:961][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.31-14.05.31:961][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.31-14.05.32:073][  0]LogDerivedDataCache: Saved boot cache 0.11s 94MB C:/Users/noura/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.31-14.05.32:074][  0]LogInit: Texture streaming: Enabled
+[2022.12.31-14.05.32:101][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.31-14.05.32:108][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.31-14.05.32:108][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.31-14.05.32:112][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.31-14.05.32:148][  0]LogInit: Transaction tracking system initialized
+[2022.12.31-14.05.32:177][  0]BlueprintLog: New page: Editor Load
+[2022.12.31-14.05.32:283][  0]LocalizationService: Localization service is disabled
+[2022.12.31-14.05.32:327][  0]TimingProfiler: Initialize
+[2022.12.31-14.05.32:327][  0]TimingProfiler: OnSessionChanged
+[2022.12.31-14.05.32:327][  0]LoadingProfiler: Initialize
+[2022.12.31-14.05.32:328][  0]LoadingProfiler: OnSessionChanged
+[2022.12.31-14.05.32:328][  0]NetworkingProfiler: Initialize
+[2022.12.31-14.05.32:328][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.31-14.05.32:328][  0]MemoryProfiler: Initialize
+[2022.12.31-14.05.32:328][  0]MemoryProfiler: OnSessionChanged
+[2022.12.31-14.05.32:537][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.31-14.05.32:538][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.31-14.05.32:704][  0]LogFileCache: Scanning file cache for directory 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Content/' took 0.01s
+[2022.12.31-14.05.32:910][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.31-14.05.32:912][  0]SourceControl: Source control is disabled
+[2022.12.31-14.05.32:912][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.852
+[2022.12.31-14.05.32:912][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.31-14.05.32:912][  0]LightingResults: New page: Lighting Build
+[2022.12.31-14.05.32:913][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.31-14.05.32:914][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.31-14.05.32:914][  0]MapCheck: New page: Map Check
+[2022.12.31-14.05.32:914][  0]LightingResults: New page: Lighting Build
+[2022.12.31-14.05.32:922][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.31-14.05.32:925][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.12.31-14.05.32:968][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.12.31-14.05.32:969][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.12.31-14.05.32:973][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.31-14.05.32:996][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.31-14.05.32:997][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.31-14.05.32:997][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2022.12.31-14.05.32:997][  0]LogFileHelpers: Loading map 'Template_Default' took 0.085
+[2022.12.31-14.05.33:000][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.939
+[2022.12.31-14.05.33:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.31-14.05.33:215][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.31-14.05.33:228][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.31-14.05.33:242][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.31-14.05.33:274][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0114 seconds. Added 3827 classes and 930 folders.
+[2022.12.31-14.05.33:278][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.31-14.05.33:282][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.31-14.05.33:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.31-14.05.33:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.31-14.05.33:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000221
+[2022.12.31-14.05.33:284][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.31-14.05.33:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.31-14.05.33:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.31-14.05.33:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.12.31-14.05.33:286][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.31-14.05.33:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.31-14.05.33:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.31-14.05.33:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.31-14.05.33:287][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.31-14.05.33:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.31-14.05.33:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.31-14.05.33:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.12.31-14.05.33:289][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.31-14.05.33:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.31-14.05.33:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.31-14.05.33:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.12.31-14.05.33:290][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.31-14.05.33:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.31-14.05.33:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.31-14.05.33:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.12.31-14.05.33:291][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.31-14.05.33:291][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:291][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.31-14.05.33:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:291][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.31-14.05.33:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.12.31-14.05.33:292][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.31-14.05.33:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.31-14.05.33:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.31-14.05.33:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.12.31-14.05.33:293][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.31-14.05.33:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.31-14.05.33:293][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:293][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.31-14.05.33:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.31-14.05.33:295][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.31-14.05.33:295][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:295][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.31-14.05.33:295][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:295][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.31-14.05.33:295][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.12.31-14.05.33:296][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.31-14.05.33:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.31-14.05.33:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.31-14.05.33:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.12.31-14.05.33:297][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.31-14.05.33:297][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:297][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.31-14.05.33:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:297][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.31-14.05.33:297][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.12.31-14.05.33:298][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.31-14.05.33:298][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:298][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.31-14.05.33:298][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:298][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.31-14.05.33:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.12.31-14.05.33:299][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.31-14.05.33:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.31-14.05.33:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.31-14.05.33:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.12.31-14.05.33:300][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.31-14.05.33:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.31-14.05.33:300][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:300][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.31-14.05.33:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.12.31-14.05.33:301][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.31-14.05.33:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.31-14.05.33:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.31-14.05.33:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.12.31-14.05.33:302][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.31-14.05.33:302][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:302][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.31-14.05.33:302][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:302][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.31-14.05.33:302][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.12.31-14.05.33:304][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.31-14.05.33:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.31-14.05.33:304][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:304][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.31-14.05.33:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.12.31-14.05.33:305][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.31-14.05.33:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.31-14.05.33:305][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:305][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.31-14.05.33:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.31-14.05.33:305][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.31-14.05.33:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.31-14.05.33:305][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:306][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.31-14.05.33:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2022.12.31-14.05.33:306][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.31-14.05.33:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.31-14.05.33:306][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:306][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.31-14.05.33:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.31-14.05.33:307][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.31-14.05.33:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.31-14.05.33:307][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:307][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.31-14.05.33:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.12.31-14.05.33:308][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.31-14.05.33:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.31-14.05.33:308][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:308][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.31-14.05.33:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.31-14.05.33:309][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.31-14.05.33:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.31-14.05.33:309][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:309][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.31-14.05.33:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.31-14.05.33:309][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.31-14.05.33:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.31-14.05.33:309][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:309][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.31-14.05.33:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.12.31-14.05.33:311][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.31-14.05.33:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.31-14.05.33:312][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.31-14.05.33:312][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.31-14.05.33:312][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.31-14.05.33:312][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.12.31-14.05.33:373][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.31-14.05.33:376][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.12.31-14.05.33:468][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.31-14.05.33:478][  0]LogSlate: Took 0.007801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.31-14.05.33:479][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.31-14.05.33:598][  0]LogRenderer: Reallocating scene render targets to support 964x428 Format 10 NumSamples 1 (Frame:1).
+[2022.12.31-14.05.33:674][  0]LogSlate: Took 0.006939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.31-14.05.33:734][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.31-14.05.33:734][  0]LogLoad: (Engine Initialization) Total time: 7.67 seconds
+[2022.12.31-14.05.33:734][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.31-14.05.33:786][  0]LogAssetRegistry: Asset discovery search completed in 4.4980 seconds
+[2022.12.31-14.05.33:791][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.12.31-14.05.33:793][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.31-14.05.34:817][ 57]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.31-14.06.47:554][378]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.31-14.06.47:596][378]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.31-14.08.04:595][958]Running D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" -game -rocket -progress
+[2022.12.31-14.08.05:106][958]Discovering modules, targets and source code for project...
+[2022.12.31-14.08.07:319][958]Binding IntelliSense data...
+[2022.12.31-14.08.14:070][958]Binding IntelliSense data... 100%
+[2022.12.31-14.08.14:070][958]Writing project files...
+[2022.12.31-14.08.16:992][958]Writing project files... 100%
+[2022.12.31-14.08.17:122][958]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.12.31-14.08.17:144][958]Candidate modules for hot reload:
+[2022.12.31-14.08.17:144][958]  EnhancedCityBuilder
+[2022.12.31-14.08.17:144][958]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,4742 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.08.32:197][958]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:08:32 PM
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Creating makefile for EnhancedCityBuilderEditor (no existing makefile)
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Parsing headers for EnhancedCityBuilderEditor
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:   Running UnrealHeaderTool "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\EnhancedCityBuilder.uproject" "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\EnhancedCityBuilderEditor\Development\EnhancedCityBuilderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Reflection code generated for EnhancedCityBuilderEditor in 6.1779134 seconds
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Error: D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainMenuWidget.cpp(1) : error: Expected MainMenuWidget.h to be first header included.
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Error: D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(1) : error: Expected MainPlayerController.h to be first header included.
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Building 7 actions with 16 processes...
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:   [1/7] EnhancedCityBuilder.init.gen.cpp
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:   [2/7] Building.cpp
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:   [3/7] Building.gen.cpp
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:   [4/7] MainPlayerController.cpp
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:   [5/7] UE4Editor-EnhancedCityBuilder-4742.lib
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-4742.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-4742.exp
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:   [6/7] UE4Editor-EnhancedCityBuilder-4742.dll
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-4742.suppressed.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-4742.suppressed.exp
+[2022.12.31-14.08.32:198][958]CompilerResultsLog:   [7/7] EnhancedCityBuilderEditor.target
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Total time in Parallel executor: 6.16 seconds
+[2022.12.31-14.08.32:198][958]CompilerResultsLog: Total execution time: 14.98 seconds
+[2022.12.31-14.08.32:199][958]LogMainFrame: MainFrame: Module compiling took 15.076 seconds
+[2022.12.31-14.08.32:226][958]LogClass: Could not find existing class Building in package /Script/EnhancedCityBuilder for HotReload, assuming new class
+[2022.12.31-14.08.32:231][958]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'EnhancedCityBuilder' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2022.12.31-14.08.32:233][958]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.12.31-14.08.32:291][958]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0078 seconds. Added 3828 classes and 930 folders.
+[2022.12.31-14.08.32:292][958]Display: HotReload took 15.2s.
+[2022.12.31-14.08.32:292][958]Warning: HotReload operation took 15.2s.
+[2022.12.31-14.08.32:546][958]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.12.31-14.08.32:558][958]LogHotReload: New module detected: UE4Editor-EnhancedCityBuilder-4742.dll
+[2022.12.31-14.08.32:636][959]LogHotReload: Starting Hot-Reload from IDE
+[2022.12.31-14.08.32:797][959]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'EnhancedCityBuilder' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2022.12.31-14.08.32:800][959]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.12.31-14.08.32:817][959]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0140 seconds. Added 3828 classes and 930 folders.
+[2022.12.31-14.08.32:824][959]Display: HotReload took  0.2s.
+[2022.12.31-14.10.36:436][357]Running D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" -game -rocket -progress
+[2022.12.31-14.10.36:744][357]Discovering modules, targets and source code for project...
+[2022.12.31-14.10.37:850][357]Binding IntelliSense data...
+[2022.12.31-14.10.39:269][357]Binding IntelliSense data... 100%
+[2022.12.31-14.10.39:269][357]Writing project files...
+[2022.12.31-14.10.41:083][357]Writing project files... 100%
+[2022.12.31-14.10.41:249][357]Candidate modules for hot reload:
+[2022.12.31-14.10.41:249][357]  EnhancedCityBuilder
+[2022.12.31-14.10.41:249][357]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,3160 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.10.49:268][357]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:10:49 PM
+[2022.12.31-14.10.49:268][357]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.10.49:268][357]CompilerResultsLog: Creating makefile for EnhancedCityBuilderEditor (no existing makefile)
+[2022.12.31-14.10.49:268][357]CompilerResultsLog: Parsing headers for EnhancedCityBuilderEditor
+[2022.12.31-14.10.49:268][357]CompilerResultsLog:   Running UnrealHeaderTool "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\EnhancedCityBuilder.uproject" "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\EnhancedCityBuilderEditor\Development\EnhancedCityBuilderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.31-14.10.49:268][357]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.31-14.10.49:268][357]CompilerResultsLog: Reflection code generated for EnhancedCityBuilderEditor in 4.4603346 seconds
+[2022.12.31-14.10.49:268][357]CompilerResultsLog: Error: D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainMenuWidget.cpp(1) : error: Expected MainMenuWidget.h to be first header included.
+[2022.12.31-14.10.49:268][357]CompilerResultsLog: Error: D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(1) : error: Expected MainPlayerController.h to be first header included.
+[2022.12.31-14.10.49:269][357]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.10.49:269][357]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.10.49:269][357]CompilerResultsLog: Building 6 actions with 16 processes...
+[2022.12.31-14.10.49:269][357]CompilerResultsLog:   [1/6] SpawnableBuildingObject.cpp
+[2022.12.31-14.10.49:269][357]CompilerResultsLog:   [2/6] Building.cpp
+[2022.12.31-14.10.49:269][357]CompilerResultsLog:   [3/6] Building.gen.cpp
+[2022.12.31-14.10.49:269][357]CompilerResultsLog:   [4/6] UE4Editor-EnhancedCityBuilder-3160.lib
+[2022.12.31-14.10.49:269][357]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-3160.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-3160.exp
+[2022.12.31-14.10.49:269][357]CompilerResultsLog:   [5/6] UE4Editor-EnhancedCityBuilder-3160.dll
+[2022.12.31-14.10.49:269][357]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-3160.suppressed.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-3160.suppressed.exp
+[2022.12.31-14.10.49:269][357]CompilerResultsLog:   [6/6] EnhancedCityBuilderEditor.target
+[2022.12.31-14.10.49:269][357]CompilerResultsLog: Total time in Parallel executor: 1.70 seconds
+[2022.12.31-14.10.49:269][357]CompilerResultsLog: Total execution time: 7.86 seconds
+[2022.12.31-14.10.49:269][357]LogMainFrame: MainFrame: Module compiling took 8.029 seconds
+[2022.12.31-14.10.49:304][357]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'EnhancedCityBuilder' in 0.0007 seconds. Added 6 classes and 2 folders.
+[2022.12.31-14.10.49:307][357]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.12.31-14.10.49:352][357]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0096 seconds. Added 3828 classes and 930 folders.
+[2022.12.31-14.10.49:352][357]Display: HotReload took  8.2s.
+[2022.12.31-14.10.49:354][357]Warning: HotReload operation took  8.2s.
+[2022.12.31-14.10.49:904][357]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/SpawnableBuildingObject.h'
+[2022.12.31-14.10.50:031][357]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/SpawnableBuildingObject.cpp'
+[2022.12.31-14.10.50:036][357]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.12.31-14.10.50:044][357]LogHotReload: New module detected: UE4Editor-EnhancedCityBuilder-3160.dll
+[2022.12.31-14.10.50:090][358]LogHotReload: Starting Hot-Reload from IDE
+[2022.12.31-14.10.50:120][358]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'EnhancedCityBuilder' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2022.12.31-14.10.50:122][358]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.12.31-14.10.50:140][358]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0135 seconds. Added 3828 classes and 930 folders.
+[2022.12.31-14.10.50:144][358]Display: HotReload took  0.1s.
+[2022.12.31-14.11.42:703][625]Running D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" -game -rocket -progress
+[2022.12.31-14.11.43:008][625]Discovering modules, targets and source code for project...
+[2022.12.31-14.11.44:015][625]Binding IntelliSense data...
+[2022.12.31-14.11.45:634][625]Binding IntelliSense data... 100%
+[2022.12.31-14.11.45:634][625]Writing project files...
+[2022.12.31-14.11.47:347][625]Writing project files... 100%
+[2022.12.31-14.11.47:483][625]Candidate modules for hot reload:
+[2022.12.31-14.11.47:483][625]  EnhancedCityBuilder
+[2022.12.31-14.11.47:483][625]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,9293 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:11:55 PM
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Creating makefile for EnhancedCityBuilderEditor (no existing makefile)
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Parsing headers for EnhancedCityBuilderEditor
+[2022.12.31-14.11.55:134][625]CompilerResultsLog:   Running UnrealHeaderTool "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\EnhancedCityBuilder.uproject" "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\EnhancedCityBuilderEditor\Development\EnhancedCityBuilderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Reflection code generated for EnhancedCityBuilderEditor in 4.2230666 seconds
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Error: D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainMenuWidget.cpp(1) : error: Expected MainMenuWidget.h to be first header included.
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Error: D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(1) : error: Expected MainPlayerController.h to be first header included.
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Building 6 actions with 16 processes...
+[2022.12.31-14.11.55:134][625]CompilerResultsLog:   [1/6] EnhancedCityBuilder.init.gen.cpp
+[2022.12.31-14.11.55:134][625]CompilerResultsLog:   [2/6] BuildingObject.cpp
+[2022.12.31-14.11.55:134][625]CompilerResultsLog:   [3/6] BuildingObject.gen.cpp
+[2022.12.31-14.11.55:134][625]CompilerResultsLog:   [4/6] UE4Editor-EnhancedCityBuilder-9293.lib
+[2022.12.31-14.11.55:134][625]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-9293.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-9293.exp
+[2022.12.31-14.11.55:134][625]CompilerResultsLog:   [5/6] UE4Editor-EnhancedCityBuilder-9293.dll
+[2022.12.31-14.11.55:134][625]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-9293.suppressed.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-9293.suppressed.exp
+[2022.12.31-14.11.55:134][625]CompilerResultsLog:   [6/6] EnhancedCityBuilderEditor.target
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Total time in Parallel executor: 1.56 seconds
+[2022.12.31-14.11.55:134][625]CompilerResultsLog: Total execution time: 7.56 seconds
+[2022.12.31-14.11.55:134][625]LogMainFrame: MainFrame: Module compiling took 7.658 seconds
+[2022.12.31-14.11.55:170][625]LogClass: Could not find existing class BuildingObject in package /Script/EnhancedCityBuilder for HotReload, assuming new class
+[2022.12.31-14.11.55:174][625]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'EnhancedCityBuilder' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2022.12.31-14.11.55:176][625]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.12.31-14.11.55:221][625]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3829 classes and 930 folders.
+[2022.12.31-14.11.55:221][625]Display: HotReload took  7.8s.
+[2022.12.31-14.11.55:227][625]Warning: HotReload operation took  7.8s.
+[2022.12.31-14.11.55:485][625]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/BuildingObject.h'
+[2022.12.31-14.11.55:486][625]LogVSAccessor: Warning: Couldn't open file 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/BuildingObject.cpp'.
+[2022.12.31-14.11.55:492][625]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.12.31-14.11.55:499][625]LogHotReload: New module detected: UE4Editor-EnhancedCityBuilder-9293.dll
+[2022.12.31-14.11.55:538][626]LogHotReload: Starting Hot-Reload from IDE
+[2022.12.31-14.11.55:616][626]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'EnhancedCityBuilder' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2022.12.31-14.11.55:619][626]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.12.31-14.11.55:638][626]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0136 seconds. Added 3829 classes and 930 folders.
+[2022.12.31-14.11.55:643][626]Display: HotReload took  0.1s.
+[2022.12.31-14.11.58:468][762]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/BuildingObject.cpp'
+[2022.12.31-14.19.09:876][249]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/UIManager.h'
+[2022.12.31-14.19.10:045][249]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/UIManager.cpp'
+[2022.12.31-14.19.22:999][633]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/ButtonWidget.h'
+[2022.12.31-14.19.23:145][633]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/ButtonWidget.cpp'
+[2022.12.31-14.20.35:054][ 69]Candidate modules for hot reload:
+[2022.12.31-14.20.35:054][ 69]  EnhancedCityBuilder
+[2022.12.31-14.20.35:054][ 69]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,8992 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.20.35:058][ 69]Warning: Starting HotReload took  0.1s.
+[2022.12.31-14.20.42:568][513]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:20:42 PM
+[2022.12.31-14.20.42:568][513]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.20.42:568][513]CompilerResultsLog: Parsing headers for EnhancedCityBuilderEditor
+[2022.12.31-14.20.42:568][513]CompilerResultsLog:   Running UnrealHeaderTool "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\EnhancedCityBuilder.uproject" "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\EnhancedCityBuilderEditor\Development\EnhancedCityBuilderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.31-14.20.42:568][513]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.31-14.20.42:568][513]CompilerResultsLog: Reflection code generated for EnhancedCityBuilderEditor in 4.5924226 seconds
+[2022.12.31-14.20.42:568][513]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.20.42:568][513]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.20.42:568][513]CompilerResultsLog: Building 5 actions with 16 processes...
+[2022.12.31-14.20.42:568][513]CompilerResultsLog:   [1/5] BuildingObject.gen.cpp
+[2022.12.31-14.20.42:568][513]CompilerResultsLog:   [2/5] BuildingObject.cpp
+[2022.12.31-14.20.42:568][513]CompilerResultsLog:   [3/5] UE4Editor-EnhancedCityBuilder-8992.lib
+[2022.12.31-14.20.42:568][513]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-8992.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-8992.exp
+[2022.12.31-14.20.42:569][513]CompilerResultsLog:   [4/5] UE4Editor-EnhancedCityBuilder-8992.dll
+[2022.12.31-14.20.42:569][513]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-8992.suppressed.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-8992.suppressed.exp
+[2022.12.31-14.20.42:569][513]CompilerResultsLog:   [5/5] EnhancedCityBuilderEditor.target
+[2022.12.31-14.20.42:569][513]CompilerResultsLog: Total time in Parallel executor: 1.90 seconds
+[2022.12.31-14.20.42:569][513]CompilerResultsLog: Total execution time: 7.40 seconds
+[2022.12.31-14.20.42:569][513]LogMainFrame: MainFrame: Module compiling took 7.557 seconds
+[2022.12.31-14.20.42:619][513]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'EnhancedCityBuilder' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2022.12.31-14.20.42:621][513]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.12.31-14.20.42:669][513]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0109 seconds. Added 3829 classes and 930 folders.
+[2022.12.31-14.20.42:669][513]Display: HotReload took  7.7s.
+[2022.12.31-14.22.13:298][503]Candidate modules for hot reload:
+[2022.12.31-14.22.13:298][503]  EnhancedCityBuilder
+[2022.12.31-14.22.13:298][503]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,4851 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.22.13:301][503]Warning: Starting HotReload took  0.0s.
+[2022.12.31-14.22.20:609][342]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:22:20 PM
+[2022.12.31-14.22.20:609][342]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.22.20:609][342]CompilerResultsLog: Parsing headers for EnhancedCityBuilderEditor
+[2022.12.31-14.22.20:609][342]CompilerResultsLog:   Running UnrealHeaderTool "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\EnhancedCityBuilder.uproject" "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\EnhancedCityBuilderEditor\Development\EnhancedCityBuilderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.31-14.22.20:609][342]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.31-14.22.20:609][342]CompilerResultsLog: Reflection code generated for EnhancedCityBuilderEditor in 5.0413193 seconds
+[2022.12.31-14.22.20:609][342]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.22.20:609][342]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.22.20:609][342]CompilerResultsLog: Building 5 actions with 16 processes...
+[2022.12.31-14.22.20:609][342]CompilerResultsLog:   [1/5] BuildingObject.gen.cpp
+[2022.12.31-14.22.20:609][342]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder/BuildingObject.h(33) : error C2143: syntax error: missing ';' before '*'
+[2022.12.31-14.22.20:610][342]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder/BuildingObject.h(33) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.31-14.22.20:610][342]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder/BuildingObject.h(33) : error C2238: unexpected token(s) preceding ';'
+[2022.12.31-14.22.20:610][342]CompilerResultsLog:   [2/5] BuildingObject.cpp
+[2022.12.31-14.22.20:610][342]LogMainFrame: MainFrame: Module compiling took 7.319 seconds
+[2022.12.31-14.22.20:615][342]Warning: HotReload failed, recompile failed
+[2022.12.31-14.22.23:072][628]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.31-14.22.30:656][353]LogSlate: Window 'Message Log' being destroyed
+[2022.12.31-14.22.30:662][353]LogSlate: Window 'Message Log' being destroyed
+[2022.12.31-14.23.00:946][681]Candidate modules for hot reload:
+[2022.12.31-14.23.00:946][681]  EnhancedCityBuilder
+[2022.12.31-14.23.00:946][681]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,4701 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.23.00:950][681]Warning: Starting HotReload took  0.0s.
+[2022.12.31-14.23.09:419][657]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:23:09 PM
+[2022.12.31-14.23.09:419][657]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.23.09:419][657]CompilerResultsLog: Parsing headers for EnhancedCityBuilderEditor
+[2022.12.31-14.23.09:419][657]CompilerResultsLog:   Running UnrealHeaderTool "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\EnhancedCityBuilder.uproject" "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\EnhancedCityBuilderEditor\Development\EnhancedCityBuilderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.31-14.23.09:419][657]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.31-14.23.09:420][657]CompilerResultsLog: Reflection code generated for EnhancedCityBuilderEditor in 4.9679713 seconds
+[2022.12.31-14.23.09:420][657]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.23.09:420][657]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.23.09:420][657]CompilerResultsLog: Building 6 actions with 16 processes...
+[2022.12.31-14.23.09:420][657]CompilerResultsLog:   [1/6] EnhancedCityBuilder.init.gen.cpp
+[2022.12.31-14.23.09:420][657]CompilerResultsLog:   [2/6] BuildingObject.cpp
+[2022.12.31-14.23.09:420][657]CompilerResultsLog:   [3/6] BuildingObject.gen.cpp
+[2022.12.31-14.23.09:420][657]CompilerResultsLog:   [4/6] UE4Editor-EnhancedCityBuilder-4701.lib
+[2022.12.31-14.23.09:420][657]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-4701.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-4701.exp
+[2022.12.31-14.23.09:420][657]CompilerResultsLog:   [5/6] UE4Editor-EnhancedCityBuilder-4701.dll
+[2022.12.31-14.23.09:420][657]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-4701.suppressed.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-4701.suppressed.exp
+[2022.12.31-14.23.09:420][657]CompilerResultsLog:   [6/6] EnhancedCityBuilderEditor.target
+[2022.12.31-14.23.09:420][657]CompilerResultsLog: Total time in Parallel executor: 2.39 seconds
+[2022.12.31-14.23.09:420][657]CompilerResultsLog: Total execution time: 8.38 seconds
+[2022.12.31-14.23.09:420][657]LogMainFrame: MainFrame: Module compiling took 8.489 seconds
+[2022.12.31-14.23.09:456][657]LogClass: Could not find existing class BuildingObject in package /Script/EnhancedCityBuilder for HotReload, assuming new class
+[2022.12.31-14.23.09:462][657]LogHotReload: Re-instancing BuildingObject after hot-reload.
+[2022.12.31-14.23.09:472][657]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'EnhancedCityBuilder' in 0.0005 seconds. Added 7 classes and 2 folders.
+[2022.12.31-14.23.09:475][657]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.12.31-14.23.09:527][657]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0127 seconds. Added 3829 classes and 930 folders.
+[2022.12.31-14.23.09:527][657]Display: HotReload took  8.6s.
+[2022.12.31-14.30.00:829][414]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/MainPlayerController.h'
+[2022.12.31-14.30.00:954][414]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/Source/EnhancedCityBuilder/MainPlayerController.cpp'
+[2022.12.31-14.31.39:223][178]Candidate modules for hot reload:
+[2022.12.31-14.31.39:223][178]  EnhancedCityBuilder
+[2022.12.31-14.31.39:223][178]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,0477 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.31.39:226][178]Warning: Starting HotReload took  0.0s.
+[2022.12.31-14.31.41:168][310]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:31:41 PM
+[2022.12.31-14.31.41:168][310]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.31.41:169][310]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.31.41:169][310]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.31.41:169][310]CompilerResultsLog: Building 4 actions with 16 processes...
+[2022.12.31-14.31.41:169][310]CompilerResultsLog:   [1/4] BuildingObject.cpp
+[2022.12.31-14.31.41:169][310]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(39) : error C4065: switch statement contains 'default' but no 'case' labels
+[2022.12.31-14.31.41:169][310]LogMainFrame: MainFrame: Module compiling took 1.952 seconds
+[2022.12.31-14.31.41:169][310]Warning: HotReload failed, recompile failed
+[2022.12.31-14.36.18:442][505]Candidate modules for hot reload:
+[2022.12.31-14.36.18:442][505]  EnhancedCityBuilder
+[2022.12.31-14.36.18:442][505]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,1713 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.36.18:446][505]Warning: Starting HotReload took  0.1s.
+[2022.12.31-14.36.30:325][784]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:36:30 PM
+[2022.12.31-14.36.30:325][784]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.36.30:325][784]CompilerResultsLog: Parsing headers for EnhancedCityBuilderEditor
+[2022.12.31-14.36.30:325][784]CompilerResultsLog:   Running UnrealHeaderTool "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\EnhancedCityBuilder.uproject" "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\EnhancedCityBuilderEditor\Development\EnhancedCityBuilderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.31-14.36.30:325][784]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.31-14.36.30:325][784]CompilerResultsLog: Reflection code generated for EnhancedCityBuilderEditor in 5.058973 seconds
+[2022.12.31-14.36.30:325][784]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.36.30:325][784]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.36.30:325][784]CompilerResultsLog: Building 8 actions with 16 processes...
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:   [1/8] BuildingObject.cpp
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(22) : error C2039: 'actiontyp': is not a member of 'AMainPlayerController'
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:   D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.h(13): note: see declaration of 'AMainPlayerController'
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(23) : error C2143: syntax error: missing ';' before '}'
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(41) : error C4065: switch statement contains 'default' but no 'case' labels
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:   [2/8] MainPlayerController.cpp
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(59) : error C2143: syntax error: missing ';' before 'AMainPlayerController::GetActionType'
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(59) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(60) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(60) : error C2556: 'int AMainPlayerController::GetActionType(void)': overloaded function differs only by return type from 'AMainPlayerController::ActionType AMainPlayerController::GetActionType(void)'
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:   D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.h(64): note: see declaration of 'AMainPlayerController::GetActionType'
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(59) : error C2371: 'AMainPlayerController::GetActionType': redefinition; different basic types
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:   D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.h(64): note: see declaration of 'AMainPlayerController::GetActionType'
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:   [3/8] MainPlayerController.gen.cpp
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:   [4/8] BuildingObject.gen.cpp
+[2022.12.31-14.36.30:326][784]CompilerResultsLog:   [5/8] ButtonWidget.cpp
+[2022.12.31-14.36.30:326][784]LogMainFrame: MainFrame: Module compiling took 11.893 seconds
+[2022.12.31-14.36.30:326][784]Warning: HotReload failed, recompile failed
+[2022.12.31-14.36.44:939][106]LogSlate: Window 'Message Log' being destroyed
+[2022.12.31-14.36.44:950][106]LogSlate: Window 'Message Log' being destroyed
+[2022.12.31-14.37.00:825][348]Candidate modules for hot reload:
+[2022.12.31-14.37.00:825][348]  EnhancedCityBuilder
+[2022.12.31-14.37.00:825][348]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,4991 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.37.00:828][348]Warning: Starting HotReload took  0.0s.
+[2022.12.31-14.37.10:833][475]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:37:10 PM
+[2022.12.31-14.37.10:834][475]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.37.10:834][475]CompilerResultsLog: Parsing headers for EnhancedCityBuilderEditor
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:   Running UnrealHeaderTool "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\EnhancedCityBuilder.uproject" "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\EnhancedCityBuilderEditor\Development\EnhancedCityBuilderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.31-14.37.10:834][475]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.31-14.37.10:834][475]CompilerResultsLog: Reflection code generated for EnhancedCityBuilderEditor in 5.000939 seconds
+[2022.12.31-14.37.10:834][475]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.37.10:834][475]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.37.10:834][475]CompilerResultsLog: Building 8 actions with 16 processes...
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:   [1/8] MainPlayerController.cpp
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(59) : error C2143: syntax error: missing ';' before 'AMainPlayerController::GetActionType'
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(59) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(60) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(60) : error C2556: 'int AMainPlayerController::GetActionType(void)': overloaded function differs only by return type from 'AMainPlayerController::ActionType AMainPlayerController::GetActionType(void)'
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:   D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.h(65): note: see declaration of 'AMainPlayerController::GetActionType'
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.cpp(59) : error C2371: 'AMainPlayerController::GetActionType': redefinition; different basic types
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:   D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.h(65): note: see declaration of 'AMainPlayerController::GetActionType'
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:   [2/8] BuildingObject.cpp
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(22) : error C2039: 'actiontyp': is not a member of 'AMainPlayerController'
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:   D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.h(13): note: see declaration of 'AMainPlayerController'
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(23) : error C2143: syntax error: missing ';' before '}'
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(41) : error C4065: switch statement contains 'default' but no 'case' labels
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:   [3/8] BuildingObject.gen.cpp
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:   [4/8] MainPlayerController.gen.cpp
+[2022.12.31-14.37.10:834][475]CompilerResultsLog:   [5/8] ButtonWidget.cpp
+[2022.12.31-14.37.10:834][475]LogMainFrame: MainFrame: Module compiling took 10.014 seconds
+[2022.12.31-14.37.10:834][475]Warning: HotReload failed, recompile failed
+[2022.12.31-14.50.09:799][358]Candidate modules for hot reload:
+[2022.12.31-14.50.09:799][358]  EnhancedCityBuilder
+[2022.12.31-14.50.09:799][358]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,9868 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.50.09:802][358]Warning: Starting HotReload took  0.0s.
+[2022.12.31-14.50.20:558][546]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:50:20 PM
+[2022.12.31-14.50.20:558][546]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.50.20:558][546]CompilerResultsLog: Parsing headers for EnhancedCityBuilderEditor
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:   Running UnrealHeaderTool "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\EnhancedCityBuilder.uproject" "D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\EnhancedCityBuilderEditor\Development\EnhancedCityBuilderEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.31-14.50.20:558][546]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.31-14.50.20:558][546]CompilerResultsLog: Reflection code generated for EnhancedCityBuilderEditor in 5.0114574 seconds
+[2022.12.31-14.50.20:558][546]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.50.20:558][546]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.50.20:558][546]CompilerResultsLog: Building 8 actions with 16 processes...
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:   [1/8] BuildingObject.cpp
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(22) : error C2039: 'actiontyp': is not a member of 'AMainPlayerController'
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:   D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\MainPlayerController.h(13): note: see declaration of 'AMainPlayerController'
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(23) : error C2143: syntax error: missing ';' before '}'
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(41) : error C4065: switch statement contains 'default' but no 'case' labels
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:   [2/8] BuildingObject.gen.cpp
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:   [3/8] MainPlayerController.gen.cpp
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:   [4/8] MainPlayerController.cpp
+[2022.12.31-14.50.20:558][546]CompilerResultsLog:   [5/8] ButtonWidget.cpp
+[2022.12.31-14.50.20:559][546]LogMainFrame: MainFrame: Module compiling took 10.765 seconds
+[2022.12.31-14.50.20:559][546]Warning: HotReload failed, recompile failed
+[2022.12.31-14.50.48:624][ 58]LogSlate: Window 'Message Log' being destroyed
+[2022.12.31-14.50.48:631][ 58]LogSlate: Window 'Message Log' being destroyed
+[2022.12.31-14.51.12:439][391]Candidate modules for hot reload:
+[2022.12.31-14.51.12:439][391]  EnhancedCityBuilder
+[2022.12.31-14.51.12:439][391]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,1874 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-14.51.12:442][391]Warning: Starting HotReload took  0.0s.
+[2022.12.31-14.51.14:553][607]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 6:51:14 PM
+[2022.12.31-14.51.14:553][607]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-14.51.14:553][607]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-14.51.14:553][607]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-14.51.14:553][607]CompilerResultsLog: Building 4 actions with 16 processes...
+[2022.12.31-14.51.14:553][607]CompilerResultsLog:   [1/4] BuildingObject.cpp
+[2022.12.31-14.51.14:553][607]CompilerResultsLog:    D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Source\EnhancedCityBuilder\BuildingObject.cpp(41) : error C4065: switch statement contains 'default' but no 'case' labels
+[2022.12.31-14.51.14:553][607]LogMainFrame: MainFrame: Module compiling took 2.120 seconds
+[2022.12.31-14.51.14:553][607]Warning: HotReload failed, recompile failed
+[2022.12.31-14.51.22:903][589]LogSlate: Window 'Message Log' being destroyed
+[2022.12.31-14.51.22:909][589]LogSlate: Window 'Message Log' being destroyed
+[2022.12.31-15.08.04:150][891]Candidate modules for hot reload:
+[2022.12.31-15.08.04:150][891]  EnhancedCityBuilder
+[2022.12.31-15.08.04:150][891]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=EnhancedCityBuilder,6954 EnhancedCityBuilderEditor Win64 Development -Project="D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject" "D:/_UnrealProjects/Unreal_EnhancedCityBuilderGame/EnhancedCityBuilder/EnhancedCityBuilder.uproject"  -IgnoreJunk]
+[2022.12.31-15.08.04:152][891]Warning: Starting HotReload took  0.0s.
+[2022.12.31-15.08.06:884][ 52]CompilerResultsLog: New page: Compilation - Dec 31, 2022, 7:08:06 PM
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame).
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog: Building EnhancedCityBuilderEditor...
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog: Building 4 actions with 16 processes...
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog:   [1/4] BuildingObject.cpp
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog:   [2/4] UE4Editor-EnhancedCityBuilder-6954.lib
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-6954.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-6954.exp
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog:   [3/4] UE4Editor-EnhancedCityBuilder-6954.dll
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog:      Creating library D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-6954.suppressed.lib and object D:\_UnrealProjects\Unreal_EnhancedCityBuilderGame\EnhancedCityBuilder\Intermediate\Build\Win64\UE4Editor\Development\EnhancedCityBuilder\UE4Editor-EnhancedCityBuilder-6954.suppressed.exp
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog:   [4/4] EnhancedCityBuilderEditor.target
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog: Total time in Parallel executor: 2.04 seconds
+[2022.12.31-15.08.06:885][ 52]CompilerResultsLog: Total execution time: 2.65 seconds
+[2022.12.31-15.08.06:885][ 52]LogMainFrame: MainFrame: Module compiling took 2.741 seconds
+[2022.12.31-15.08.06:973][ 52]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.31-15.08.06:973][ 52]LogWindows: Windows GetLastError: The operation completed successfully. (0)
